@@ -1,0 +1,25 @@
+{
+  "name": "json-parse-laearon",
+  "version": "0.0.11",
+  "description": "fully implementation of JSON parse and stringify",
+  "main": "json-parse.js",
+  "typings": "json-parse.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcfme/json-parse-oop.git"
+  },
+  "author": "Liu Chaofan (laearon)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lcfme/json-parse-oop/issues"
+  },
+  "homepage": "https://github.com/lcfme/json-parse-oop#readme",
+  "keywords": [
+    "json",
+    "parse",
+    "stringify"
+  ]
+}
